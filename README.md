@@ -1,4 +1,4 @@
-# Taste of Code Website
+# Taste of Design Website
 
 ## Development
 
