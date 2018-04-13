@@ -1,11 +1,11 @@
 title: Taste of Design - Free beginner course to learn about design, prototyping, and testing.
-email: info@tasteofdesign.nl
+email: info@tasteofcode.nl
 description: > # this means to ignore newlines until "baseurl:"
   Come and have a Taste of UX Design together.
   From the creators of Taste of Code. You can now dive into the world of User Experience Design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tasteofdesign.nl" # the base hostname & protocol for your site
-twitter_username: tasteofdesign
+twitter_username: TasteofUX
 github_username:  codaisseur
 
 # Build settings
